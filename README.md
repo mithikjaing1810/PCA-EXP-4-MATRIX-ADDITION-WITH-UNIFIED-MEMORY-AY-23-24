@@ -538,4 +538,4 @@ WITHOUT MEMSET:
 <img width="1752" height="1023" alt="image" src="https://github.com/user-attachments/assets/b65dbc9c-d092-4e9c-8eda-cbd57fd84ff9" />
 
 ## RESULT:
-Thus the program has been executed by using unified memory. It is observed that removing memset function has given less/more_______________time.
+Thus the program has been executed by using unified memory. It is observed that removing memset function has given less time.
